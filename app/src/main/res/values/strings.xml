@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="priority">Priority</string>
+    <string name="splash_description">manage your to do notes easily</string>
+</resources>
